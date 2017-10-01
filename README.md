@@ -1,6 +1,9 @@
 
+<h3>
 Be in sync with  
 the headlines that matter.
+</h3>
+<br>
 
 #blockchain, #bitcoin, #ethereum, #cryptocurrency
 * https://news.bitcoin.com
@@ -35,6 +38,7 @@ the headlines that matter.
 
 #others
 * https://www.youtube.com/user/rajyasabhatv/
+* https://news.google.com/news/?ned=in&hl=en-IN
 * https://currentaffairs.gktoday.in
 * https://www.inshorts.com/en/read
 * http://www.firstpost.com/category/politics
