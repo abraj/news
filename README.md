@@ -1,6 +1,6 @@
 
 <h3>
-Be in sync with  
+Be in sync with  <br>
 the headlines that matter.
 </h3>
 <br>
