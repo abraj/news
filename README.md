@@ -1,7 +1,7 @@
 
 <h3>
 Be in sync with  <br>
-the headlines <u>that matter</u>.
+the headlines <i>that matter</i>.
 </h3>
 <br>
 
