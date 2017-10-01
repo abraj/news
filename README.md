@@ -1,3 +1,4 @@
+
 #blockchain, #bitcoin, #ethereum, #cryptocurrency
 * https://news.bitcoin.com
 * https://cointelegraph.com/
@@ -12,3 +13,24 @@
 * https://pando.com/archives/
 * https://www.producthunt.com
 
+#indianstartups
+* https://inc42.com
+* http://techcircle.vccircle.com
+* https://yourstory.com/category/ys-startup
+
+#india
+* http://www.firstpost.com/category/india
+* http://timesofindia.indiatimes.com/india
+
+#world
+* http://www.firstpost.com/category/world
+* http://timesofindia.indiatimes.com/world
+
+#business
+* http://www.firstpost.com/category/business
+* http://timesofindia.indiatimes.com/business
+
+#others
+* https://currentaffairs.gktoday.in
+* https://www.inshorts.com/en/read
+* http://www.firstpost.com/category/politics
