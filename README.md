@@ -1,4 +1,7 @@
 
+Be in sync with  
+the headlines that matter.
+
 #blockchain, #bitcoin, #ethereum, #cryptocurrency
 * https://news.bitcoin.com
 * https://cointelegraph.com/
