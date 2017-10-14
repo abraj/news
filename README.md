@@ -9,20 +9,17 @@ the headlines <i>that matter</i>.
 * https://news.bitcoin.com
 * https://cointelegraph.com/
 * http://www.coindesk.com/
-* https://www.cryptocoinsnews.com
 
 #startups
 * https://techcrunch.com/startups/
 * https://venturebeat.com
-* http://mashable.com/category/startups/
 * https://news.ycombinator.com
-* https://pando.com/archives/
 * https://www.producthunt.com
 
 #indianstartups
 * https://inc42.com
 * http://techcircle.vccircle.com
-* https://yourstory.com/category/ys-startup
+* https://yourstory.com
 
 #india
 * http://www.firstpost.com/category/india
