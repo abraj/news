@@ -1,3 +1,8 @@
+#### Dubai Claims Title of Blockchain's 'Global Capital' at Keynote Event
+At Keynote 2017, a blockchain technology event held at Dubai, Wesam Lootah, CEO of the state-backed smart cities effort Dubai Smart Government has said, "We believe that Dubai is the global capital of blockchain. We know how to execute and we're creating the ecosystem."  
+https://www.coindesk.com/dubai-government-claims-title-blockchains-global-capital/
+http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf
+CACHE: https://github.com/abraj/news/blob/master/files/WorldGovernmentSummit-Dubai2017.pdf
 
 #### First Blockchain KYC Prototype Hits Singapore Banking Sphere
 #blockchain  
@@ -9,21 +14,21 @@ https://cointelegraph.com/news/first-blockchain-kyc-prototype-hits-singapore-ban
 Sweden's central bank is now considering the possibility of issuing its own digital currency, though the exact technology it will use is yet to be determined.  
 https://www.coindesk.com/sweden-central-bank-digital-currency/  
 http://www.riksbank.se/Documents/Rapporter/E-krona/2017/rapport_ekrona_170920_eng.pdf  
-CACHE: GitHub
+CACHE:  https://github.com/abraj/news/blob/master/files/rapport_ekrona_170920_eng.pdf
 
 #### Fedcoin? Central banks may need 'digital alternative to cash,' global financial watchdog says
 #blockchain, #cryptocurrency  
 Central banks may one day need to issue their own cryptocurrencies, the Bank for International Settlements said in its latest quarterly review.  
 https://www.cnbc.com/2017/09/18/central-banks-may-need-a-digital-alternative-to-cash-bis-says.html  
 https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/58c7f80c2e69cf24220d335e/1489500174018/R3+Report-+Fedcoin.pdf  
-CACHE: GitHub
+CACHE:  https://github.com/abraj/news/blob/master/files/R3%2BReport-%2BFedcoin.pdf
 
 #### Decentralizing Central Banks: How R3 Envisions the Future of Fiat
 #blockchain  
 The future of central banks could be either on an open, permissionless blockchain or a closed, permissioned distributed ledger, according to a paper released today by bank consortium R3. That is, assuming anything changes at all.  
 https://www.coindesk.com/decentralizating-central-banks-how-r3-envisions-the-future-of-fiat/  
 https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/593aa218e3df28fc70a4c7f3/1497014809042/Cad-coin+versus+Fedcoin-rg.pdf  
-CACHE: GitHub
+CACHE: https://github.com/abraj/news/blob/master/files/Cad-coin%2Bversus%2BFedcoin-rg.pdf
 
 #### Time for a Blockchain Digital Currency, Says Indian Central Bank’s Research Arm
 #blockchain  
@@ -31,7 +36,7 @@ In a significant endorsement of blockchain technology, bitcoin’s underlying in
 https://www.cryptocoinsnews.com/blockchain-digital-currency-india/  
 http://www.idrbt.ac.in/assets/publications/Best%20Practices/BCT.pdf  
 https://idrbt.ac.in/assets/publications/Best%20Practices/BCT.pdf  
-CACHE: Github
+CACHE: https://github.com/abraj/news/blob/master/files/BCT.pdf
 
 #### Bahrain May Adopt Bitcoin and Issue Bonds in Digital Currency
 #blockchain, #bitcoin  
@@ -76,7 +81,7 @@ The report compiles “emerging fintech startups that are changing the face of t
 https://cointelegraph.com/news/thirteen-blockchain-companies-included-in-cbs-insights-fintech-250-startup-list  
 https://www.cbinsights.com/research-fintech250  
 https://storage.googleapis.com/instapage-user-media/11443291/19326201-0-Updated-Ebook-7-10.pdf  
-CACHE: Github
+CACHE:  https://github.com/abraj/news/blob/master/files/19326201-0-Updated-Ebook-7-10.pdf
 
 #### Russia’s Central Bank Pushes for National Cryptocurrency
 #blockchain, #cryptocurrency  
@@ -153,7 +158,7 @@ https://venturebeat.com/2017/10/03/googles-firebase-releases-cloud-firestore-a-n
 NPCI opened its application program interface (APIs) to partner banks to build solutions on the offered UPI infrastructure which, with its mobile-first payments, claimed to be interoperable and instant in nature.  
 https://yourstory.com/2016/03/upi-impact-payment-gateways/
 https://digidhan.mygov.in/pages/pdf/sbi/NPCI%20Unified%20Payment%20Interface.pdf  
-CACHE: GitHub
+CACHE:  https://github.com/abraj/news/blob/master/files/NPCI%20Unified%20Payment%20Interface.pdf
 
 #### RBI Introduces Stricter KYC Norms For Mobile Wallets, Issues Final Guidelines For PPIs
 #india, #startups  
@@ -180,7 +185,7 @@ https://inc42.com/buzz/y-combinator-winter-2017-batch/
 RBI has finally released the official guidelines for non-banking financial companies (NBFCs) engaged in P2P lending in the country. In a draft, titled “Non-Banking Financial Company – Peer to Peer Lending Platform (Reserve Bank) Directions, 2017”, the central banking institution has specified a list of directions pertaining to the registration and operation of NBFC-P2Ps.  
 https://inc42.com/buzz/rbi-p2p-lending-borrowers-lenders/
 https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=3164
-CACHE: GitHub (https://rbidocs.rbi.org.in/rdocs/Content/PDFs/CPERR280420162D5F13C3A2204F4FB6A2BEA7363D0031.PDF)
+CACHE:  https://github.com/abraj/news/blob/master/files/CPERR280420162D5F13C3A2204F4FB6A2BEA7363D0031.pdf (https://rbidocs.rbi.org.in/rdocs/Content/PDFs/CPERR280420162D5F13C3A2204F4FB6A2BEA7363D0031.PDF)
 
 #### Axis Bank Completes Acquisition Of Digital Payments Platform FreeCharge, Names Sangram Singh As CEO
 #india, #startups  
