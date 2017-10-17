@@ -11,31 +11,23 @@ the headlines <i>that matter</i>.
 * http://www.coindesk.com/
 
 #startups
-* https://techcrunch.com/startups/
+* http://mashable.com
 * https://venturebeat.com
+* https://techcrunch.com/startups/
 * https://news.ycombinator.com
 * https://www.producthunt.com
 
-#indianstartups
+#startups + #india
 * https://inc42.com
 * http://techcircle.vccircle.com
 * https://yourstory.com
 
-#india
-* http://www.firstpost.com/category/india
-* http://timesofindia.indiatimes.com/india
-
-#world
-* http://www.firstpost.com/category/world
-* http://timesofindia.indiatimes.com/world
-
-#business
-* http://www.firstpost.com/category/business
-* http://timesofindia.indiatimes.com/business
+#technology, #sports, #business, #world, #india, #usa, #russia, ..
+* https://www.youtube.com/user/rajyasabhatv/
+* https://www.inshorts.com/en/read
+* http://indianexpress.com/section/india/
+* http://indianexpress.com/section/world/
+* http://indianexpress.com/section/opinion/
 
 #others
-* https://www.youtube.com/user/rajyasabhatv/
-* https://news.google.com/news/?ned=in&hl=en-IN
 * https://currentaffairs.gktoday.in
-* https://www.inshorts.com/en/read
-* http://www.firstpost.com/category/politics
