@@ -1,18 +1,18 @@
 
 #### Dubai Claims Title of Blockchain's 'Global Capital' at Keynote Event
-#blockchain  
+#blockchain, #world, #dubai  
 At Keynote 2017, a blockchain technology event held at Dubai, Wesam Lootah, CEO of the state-backed smart cities effort Dubai Smart Government has said, "We believe that Dubai is the global capital of blockchain. We know how to execute and we're creating the ecosystem."  
 https://www.coindesk.com/dubai-government-claims-title-blockchains-global-capital/  
 http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf  
 CACHE: https://github.com/abraj/news/blob/master/files/WorldGovernmentSummit-Dubai2017.pdf
 
 #### First Blockchain KYC Prototype Hits Singapore Banking Sphere
-#blockchain  
+#blockchain, #world, #singapore  
 A joint effort by a Singapore government authority and several major banks has delivered the first local know-your-customer (KYC) Blockchain prototype. The KYC solution focuses on customer data sharing between member institutions subject to customer agreement.  
 https://cointelegraph.com/news/first-blockchain-kyc-prototype-hits-singapore-banking-sphere
 
 #### Sweden's Central Bank Considers Digital Currency Use
-#blockchain, #cryptocurrency  
+#blockchain, #cryptocurrency, #world, #sweden  
 Sweden's central bank is now considering the possibility of issuing its own digital currency, though the exact technology it will use is yet to be determined.  
 https://www.coindesk.com/sweden-central-bank-digital-currency/  
 http://www.riksbank.se/Documents/Rapporter/E-krona/2017/rapport_ekrona_170920_eng.pdf  
@@ -33,7 +33,7 @@ https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/593aa218e3df28
 CACHE: https://github.com/abraj/news/blob/master/files/Cad-coin%2Bversus%2BFedcoin-rg.pdf
 
 #### Time for a Blockchain Digital Currency, Says Indian Central Bank’s Research Arm
-#blockchain  
+#blockchain, #world, #india  
 In a significant endorsement of blockchain technology, bitcoin’s underlying innovation, the research arm of the Reserve Bank of India (RBI) – India’s central bank – has tested blockchain solutions for core banking processes in the country. More notably, researchers have determined that blockchain technology has “matured enough” to be the core technology to support the digitization of India’s fiat currency, the rupee.  
 https://www.cryptocoinsnews.com/blockchain-digital-currency-india/  
 http://www.idrbt.ac.in/assets/publications/Best%20Practices/BCT.pdf  
@@ -41,23 +41,23 @@ https://idrbt.ac.in/assets/publications/Best%20Practices/BCT.pdf
 CACHE: https://github.com/abraj/news/blob/master/files/BCT.pdf
 
 #### Bahrain May Adopt Bitcoin and Issue Bonds in Digital Currency
-#blockchain, #bitcoin  
+#blockchain, #bitcoin, #cryptocurrency, #world, #bahrain  
 The Middle East island country of Bahrain is becoming interested in bitcoin and cryptocurrency. Khalid Al Rumaihi, the chief executive of the Economic Development Board of Bahrain, mentioned the country has been eyeing the blockchain sector for some time. He hopes Bahrain can “issue bonds on digital currency.”  
 https://news.bitcoin.com/bahrain-may-adopt-bitcoin-in-the-near-future/
 
 #### Macau Bans Banks From Providing Financial Services to Cryptocurrency Companies
-#blockchain, #cryptocurrency  
+#blockchain, #cryptocurrency, #world, #macau  
 Macau’s financial regulatory, the Monetary Authority of Macau (AMCM), has issued a statement prohibiting the territory’s financial institutions from providing financial services to businesses issuing virtual currencies or tokens. The statements follow a crackdown on money laundering and capital outflows from mainland China by Chinese regulators.  
 https://news.bitcoin.com/62695-2/
 
 
 #### South Korea Bans All Initial Coin Offerings
-#blockchain, #cryptocurrency  
+#blockchain, #cryptocurrency, #world, #southkorea  
 South Korea’s Financial Services Commission has announced that all initial coin offerings (ICOs) will be banned in the country.  
 https://news.bitcoin.com/south-korea-bans-initial-coin-offerings/
 
 #### Ukraine Cannot Reach Consensus on Cryptocurrency
-#blockchain, #cryptocurrency  
+#blockchain, #cryptocurrency, #world, #ukraine  
 Ukrainian lawmakers previously said that the legal status of bitcoin and other cryptocurrencies could be determined by last week. However, a unified position has not been reached among regulators.  
 https://news.bitcoin.com/ukraine-consensus-cryptocurrency-central-bank/
 
@@ -73,12 +73,12 @@ After the Chinese crackdown on ICO’s and exchanges, investors are eyeing decen
 https://news.bitcoin.com/decentralized-exchange-airswap-gets-attention-aftermath-chinese-crackdown/
 
 #### Dubai to Issue First Ever State Cryptocurrency
-#blockchain, #cryptocurrency  
+#blockchain, #cryptocurrency, #world, #dubai  
 The local government in Dubai has officially launched its own cryptocurrency called emCash. The cryptocurrency would be used for payment of governmental and nongovernmental services.  
 https://cointelegraph.com/news/dubai-will-issue-first-ever-state-cryptocurrency
 
 #### Thirteen Blockchain Companies Included in CBS Insights Fintech 250 Startup List
-#blockchain  
+#blockchain, #startups  
 The report compiles “emerging fintech startups that are changing the face of the fintech industry.” Among those included in the list are Ripple, Blockstream, Blockstack, Chain and Xapo. Also included in the list are Coinbase, Brave, Digital Asset, Factom and bitFlyer, which are virtual currency exchanges.  
 https://cointelegraph.com/news/thirteen-blockchain-companies-included-in-cbs-insights-fintech-250-startup-list  
 https://www.cbinsights.com/research-fintech250  
@@ -86,17 +86,17 @@ https://storage.googleapis.com/instapage-user-media/11443291/19326201-0-Updated-
 CACHE:  https://github.com/abraj/news/blob/master/files/19326201-0-Updated-Ebook-7-10.pdf
 
 #### Russia’s Central Bank Pushes for National Cryptocurrency
-#blockchain, #cryptocurrency  
+#blockchain, #cryptocurrency, #world, #russia  
 The Russian Central Bank is contemplating creating a national cryptocurrency, after seeing multiple benefits it could bring to the country. Meanwhile, the bank is skeptical about other cryptocurrencies including bitcoin.  
 https://news.bitcoin.com/russias-central-bank-pushes-for-national-cryptocurrency/
 
 #### Singapore to Regulate Crypto-Based Businesses, Not Cryptocurrency Itself
-#blockchain, #cryptocurrency  
+#blockchain, #cryptocurrency, #world, #singapore  
 Mr. Tharman Shanmugaratnam, Singapore’s Deputy Prime Minister, Coordinating Minister for Economic and Social Policies, has stated that the Singaporean regulator did not recognize bitcoin as legal tender, and that the MAS will likely seek to regulate companies providing bitcoin payment services, rather than the cryptocurrency itself.  
 https://news.bitcoin.com/singapore-to-regulate-cryptocurrency-based-businesses-not-cryptocurrency-itself/
 
 #### Japan’s Largest Bitcoin Exchange Bitflyer Launches Bitcoin Visa Prepaid Card
-#blockchain, #bitcoin  
+#blockchain, #bitcoin, #world, #japan  
 Japan’s largest bitcoin exchange by volume, Bitflyer, has launched its own reloadable Visa prepaid card. Customers can fund them using bitcoin through Bitflyer or other bitcoin wallets.  
 https://news.bitcoin.com/japans-bitcoin-exchange-bitflyer-bitcoin-visa-prepaid-card/
 
@@ -116,7 +116,7 @@ Backed by AngelList founder Naval Ravikant, Bitwise Asset Management is today co
 https://www.coindesk.com/angellist-creator-naval-ravikant-backs-sp-style-cryptocurrency-fund/
 
 #### Singapore Regulator Teams With Asian Banks for Blockchain KYC Trial
-#blockchain  
+#blockchain, #world, #singapore  
 Three Asian banks and a regulator in Singapore have developed a new blockchain proof-of-concept aimed at streamlining the know-your-customer (KYC) process.  
 https://www.coindesk.com/asian-consortium-successfully-tests-proof-of-concept-blockchain-kyc-platform/
 
@@ -126,12 +126,12 @@ A version of the ethereum blockchain being used by developers to test a forthcom
 https://www.coindesk.com/ethereum-testnet-faces-attack-byzantium-delay-unlikely/
 
 #### Singapore Central Bank Reveals 3 New Blockchain Payments Prototypes
-#blockchain, #cryptocurrency  
+#blockchain, #cryptocurrency, #world, #singapore  
 The Monetary Authority of Singapore (MAS), along with the Association of Banks in Singapore (ABS) trade group, today unveiled a new set of distributed ledger prototypes that form the second phase of "Project Ubin," an initiative that began last year with the goal of testing how a tokenized version of the Singaporean dollar could be created.  
 https://www.coindesk.com/singapore-regulator-announces-3-new-dlt-prototypes-for-banking-system/
 
 #### Bitcoin Meets Netflix? Laolu Is Building a Lightning-Powered App for That
-#blockchain, #bitcoin  
+#blockchain, #bitcoin, #startups  
 A principal developer of the Lightning Network, Olaoluwa "Laolu" Osunokun is understandably interested in tools that could be made possible by bitcoin. Despite the volatility of the scaling debate, and the uncertainty of just how many forks there will be, Osunokun is going so far as to conceive of a video app that could disrupt the traditional digital advertising model, one he believes is possible with tools available today.  
 https://www.coindesk.com/bitcoin-meets-netflix-laolu-building-lightning-powered-app/
 
@@ -141,12 +141,12 @@ The decentralized cryptocurrency trading platform Altcoin Exchange announced the
 https://news.bitcoin.com/altcoin-exchange-performs-first-atomic-swap-between-bitcoin-and-ethereum/
 
 #### The CFTC Is Still Considering a Cryptocurrency 'Delivery' Definition
-#blockchain, #cryptocurrency  
+#blockchain, #cryptocurrency, #world, #usa  
 The U.S. Commodities Futures Trading Commission (CFTC) is reportedly still working to define when exactly a cryptocurrency can be deemed "delivered" due to the complexities of cryptographic key management.  
 https://www.coindesk.com/cftc-still-doesnt-know-constitutes-cryptocurrency-delivery/
 
 #### Elon Musk wants to take us anywhere on Earth in less than 1 hour
-#technology  
+#technology, #business  
 Not content to overturn almost every notion we have about transportation, Elon Musk today unveiled an even more insanely transformative vision with the goal of allowing humans to reach any place on Earth in under 60 minutes.  
 https://venturebeat.com/2017/09/29/elon-musk-wants-to-take-us-anywhere-on-earth-in-less-than-1-hour/
 
@@ -156,19 +156,19 @@ Mobile and web developers have a new database available to them that’s designe
 https://venturebeat.com/2017/10/03/googles-firebase-releases-cloud-firestore-a-nosql-database-for-app-developers/
 
 #### Which Indian financial sector is UPI really going after?
-#india, #startups  
+#india, #business  
 NPCI opened its application program interface (APIs) to partner banks to build solutions on the offered UPI infrastructure which, with its mobile-first payments, claimed to be interoperable and instant in nature.  
 https://yourstory.com/2016/03/upi-impact-payment-gateways/
 https://digidhan.mygov.in/pages/pdf/sbi/NPCI%20Unified%20Payment%20Interface.pdf  
 CACHE:  https://github.com/abraj/news/blob/master/files/NPCI%20Unified%20Payment%20Interface.pdf
 
 #### RBI Introduces Stricter KYC Norms For Mobile Wallets, Issues Final Guidelines For PPIs
-#india, #startups  
+#india, #business  
 The Reserve Bank of India (RBI), in a set of fresh guidelines, has introduced stricter Know Your Customer (KYC) norms for users of mobile wallets. Also, RBI has recently announced guidelines on the issuance and operation of Prepaid Payment Instruments, aka PPIs going forward.  
 https://inc42.com/buzz/rbi-kyc-norms-mobile-wallets-ppis/
 
 #### RBI To Allow Interoperability Between Mobile Wallets Within Six Months
-#india, #startups  
+#india, #business  
 In a move that will make mobile wallet to mobile wallet transactions a reality, the Reserve Bank of India said on Wednesday that interoperability amongst KYC compliant Prepaid Payment Instruments (PPIs) will be implemented within six months of the date of issuance of the revised Master Directions.  
 https://inc42.com/buzz/rbi-interoperability-mobile-wallets/
 
@@ -183,14 +183,14 @@ In March 2017, Y Combinator announced its W’17 batch with five Indian companie
 https://inc42.com/buzz/y-combinator-winter-2017-batch/
 
 #### RBI Releases Guidelines For P2P Lending; Levies Restrictions On Lenders And Borrowers
-#india, #startups  
+#india, #business  
 RBI has finally released the official guidelines for non-banking financial companies (NBFCs) engaged in P2P lending in the country. In a draft, titled “Non-Banking Financial Company – Peer to Peer Lending Platform (Reserve Bank) Directions, 2017”, the central banking institution has specified a list of directions pertaining to the registration and operation of NBFC-P2Ps.  
 https://inc42.com/buzz/rbi-p2p-lending-borrowers-lenders/
 https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=3164
 CACHE:  https://github.com/abraj/news/blob/master/files/CPERR280420162D5F13C3A2204F4FB6A2BEA7363D0031.pdf (https://rbidocs.rbi.org.in/rdocs/Content/PDFs/CPERR280420162D5F13C3A2204F4FB6A2BEA7363D0031.PDF)
 
 #### Axis Bank Completes Acquisition Of Digital Payments Platform FreeCharge, Names Sangram Singh As CEO
-#india, #startups  
+#india, #business, #startups  
 Axis bank has received approval from the RBI and has completed the acquisition of the digital payments platform, which was announced in July this year. The country’s third largest private sector lender bought Freecharge for $60 Mn in an all-cash deal.  
 https://inc42.com/buzz/axis-bank-digital-payments-freecharge/
 
@@ -210,7 +210,7 @@ Homegrown e-commerce major Flipkart Pvt. Ltd has committed to infuse $500 millio
 https://www.vccircle.com/flipkart-commits-500-mn-for-its-payments-arm-phonepe/
 
 #### Meet the five startups selected for Pitney Bowes’ Accelerator programme
-#startups  
+#startups, #india  
 Five startups ranging from a chatbot to a software-as-a-service platform have been selected for the summer 2017 batch of the US-based technology firm Pitney Bowes Accelerator programme.  
 https://www.vccircle.com/meet-the-five-startups-selected-for-pitney-bowes-accelerator-programme/
 
@@ -225,17 +225,17 @@ The slowdown in angel and seed investments also dragged down overall venture cap
 https://www.vccircle.com/how-many-indian-startups-got-funded-last-quarter/
 
 #### PM Modi announces Rs 10,000-crore package to transform 20 Indian varsities into world class institutions
-#india  
+#india, #education  
 PM Narendra Modi on Saturday said that the government has decided to allot ₹10,000 crore and autonomy to 10 public and 10 private universities over the next five years, to make them world-class. The universities will not be selected on recommendation, but on the basis of a third party appraisal on laid down parameters, PM Modi added.  
 http://indianexpress.com/article/india/pm-modi-announces-rs-10000-crore-package-to-transform-20-indian-varsity-into-world-class-institutions-nitish-kumar-bihar-4890054/
 
 #### Apple's iPhone 8 'swollen' battery issue reported in the US
-#technology  
+#business  
 The first case of Apple's iPhone 8 'swollen' battery issue has been reported in the US in a post by an employee at consumer electronics company Best Buy. According to the post, his store received a 'swollen' iPhone 8 model brought in for repair. Earlier, cases of swollen batteries were reported from Taiwan, Japan China, Canada, and Greece.  
 http://indianexpress.com/article/technology/iphone-8/apple-looking-into-iphone-8-batteries-swelling-4878665/
 
 #### Nigeria convicts 45 in largest-ever Boko Haram mass trial
-#world  
+#world, #nigeria  
 A Nigerian court has sentenced 45 suspected Boko Haram members to up to 31 years in prison, in the largest-ever mass trial involving the Islamist extremist group. The court released another 468 suspects, ordering that they must undergo de-radicalisation programs. Notably, Boko Haram's eight-year insurgency has killed at least 20,000 people in Nigeria.  
 https://www.theguardian.com/world/2017/oct/14/dozens-of-boko-haram-members-convicted-in-mass-secret-trial-in-nigeria?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -255,12 +255,12 @@ Technology giant Apple's Co-founder Steve Wozniak has launched an online tech ed
 https://www.theverge.com/2017/10/13/16474170/apple-steve-wozniak-woz-u-launch-tech-education-online-university?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Vanuatu 1st nation to accept Bitcoins for citizenship
-#blockchain, #bitcoin  
+#blockchain, #bitcoin, #world, #vanuatu  
 Vanuatu, a South Pacific archipelago, has become the first nation to accept Bitcoins as payment for its 'investment citizenship' program. A family of up to four can receive Vanuatu passports by paying the Bitcoin equivalent of $280,000 (₹1.8 crore). Vanuatu citizenship allows individuals to reside on the island, and travel to over 100 countries without a visa.  
 https://www.bloomberg.com/news/articles/2017-10-12/bitcoin-can-buy-you-citizenship-in-one-of-the-happiest-countries?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### South Africa SC reinstates corruption charges against Prez
-#world  
+#world, #southafrica  
 South Africa's Supreme Court of Appeal (SCA) on Friday upheld a High Court ruling to reinstate 783 corruption charges filed against President Jacob Zuma before he became President. The charges against Zuma relate to a ₹14,000-crore government arms deal struck during the 1990s. State prosecutors had set aside the charges in 2009.  
 https://in.reuters.com/article/safrica-politics/south-african-supreme-court-upholds-reinstating-783-corruption-charges-against-zuma-idINKBN1CI0TJ?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -270,7 +270,7 @@ Former President Pranab Mukherjee revealed that after a meeting with Congress Pr
 http://indianexpress.com/article/india/thought-sonia-gandhi-would-make-manmohan-singh-president-i-could-be-pm-pranab-mukherjee-4889447/
 
 #### Catalan leader suspends declaration of independence
-#world  
+#world, #spain  
 Catalan President Carles Puigdemont on Tuesday suspended the region's declaration of independence in order to pursue dialogue with Spain to arrive at an "agreed solution". However, Puigdemont said the referendum had given Catalonia a clear mandate to be an independent state. The move came days after the poll in which 90% participants voted in favour of Catalonia's independence from Spain.  
 http://www.reuters.com/article/us-spain-politics-catalonia/catalan-leader-proclaims-independence-delays-effects-pending-talks-idUSKBN1CF13W?feedType=RSS&feedName=topNews&utm_source=twitter&utm_medium=Social&utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -279,8 +279,8 @@ http://www.reuters.com/article/us-spain-politics-catalonia/catalan-leader-procla
 Disruptions from demonetisation and events surrounding the implementation of GST led to a setback in India's economic momentum, said a World Bank report. It added that the growth is expected to slowdown from 8.6% in 2015 to 7% in 2017. According to the bank, GST is expected to disrupt economic activity in early 2018 but has the momentum to pick-up.
 http://www.hindustantimes.com/business-news/cash-disruption-gst-uncertainties-affected-india-s-economic-momentum-world-bank/story-gIzzGUPIcrdwN10E1zCm5N.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-#### Sexual intercourse with wife below 18 years is rape: SC
-#india  
+#### Sexual intercourse with wife below 18 years is rape: Indian Supreme Court
+#world, #india  
 The Supreme Court on Wednesday ruled that having sexual intercourse with wife who is below 18 years of age will be considered as rape. This comes after the apex court earlier slammed the Centre for creating an exception in the Indian Penal Code's Rape Law which said that having sex with wife aged 15-18 years is not rape.  
 https://twitter.com/ANI/status/917982122585001984?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -290,7 +290,7 @@ Anupam Kher has been appointed the new Chairman of the Film and Television Insti
 http://www.hindustantimes.com/bollywood/anupam-kher-is-the-new-ftii-chairman-replaces-gajendra-chauhan/story-N2bUzjwk9oCk9PVthTShSK.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### FIFA suspends Pakistan from international football
-#world, #pakistan  
+#sports, #world, #pakistan  
 FIFA has suspended Pakistan Football Federation with immediate effect, following which the national and club teams will not be allowed to take part in international competitions till the suspension is lifted. FIFA suspended PFF since its accounts were in control of a court-appointed administrator, which is against FIFA rules. The suspension will be lifted when the body becomes independent.  
 http://www.fifa.com/governance/news/y=2017/m=10/news=fifa-suspends-the-pakistan-football-federation-2913299.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -360,7 +360,7 @@ Google has launched its web domain registrar service called Google Domains in In
 https://www.inshorts.com/news/google-launches-domain-registrar-service-in-india-1507897600887
 
 #### Israel joins US in quitting UNESCO
-#world  
+#world, #israel  
 Following US' withdrawal from UNESCO citing "anti-Israel bias", Israeli PM Benjamin Netanyahu on Thursday announced that his country would also quit the UN heritage organisation. Calling the US' move "courageous and ethical", Netanyahu said, "UNESCO has become a theatre of absurd. Instead of preserving history, it distorts it." Both the US and Israel have opposed Palestine's inclusion in UNESCO.  
 http://www.livemint.com/Politics/vBpmHE4Egw681IBNyBkDdM/US-leaving-Unesco-amid-Palestinian-tensions.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -380,12 +380,12 @@ Myanmar's leader Aung San Suu Kyi has announced plans to set up a civilian-led a
 https://www.theguardian.com/world/2017/oct/13/aung-san-suu-kyi-unveils-relief-plans-for-rohingya-muslims-myanmar?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Facebook launches food delivery service in US
-#startups  
+#startups, #world, #usa  
 Facebook on Friday launched a service in the United States, through which users can order food and get it delivered by using Facebook's app or website. The feature allows users to browse nearby restaurants by visiting the 'Order Food' section on Facebook's 'Explore' menu. The social media giant has partnered with food ordering services like Delivery.com for the same.  
 http://www.hindustantimes.com/tech/facebook-launches-food-order-and-delivery-service-for-users-in-us/story-1KZbZcwXNVtri824K6u9hJ.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Rock thrown at Australian team bus in Guwahati post T20I win
-#sports, #india, #australia  
+#sports, #india, #australia, #local  
 A rock was thrown at the Australian team bus while they were returning from the Barsapara Stadium in Guwahati after winning their first T20I against India in five years. Australian opener Aaron Finch tweeted an image of bus' broken window and wrote, "Pretty scary having a rock thrown through the team bus window on the way back to the hotel!!"  
 https://www.theguardian.com/sport/2017/oct/11/rock-hits-australias-team-bus-after-t20-win-over-india
 
@@ -400,7 +400,7 @@ British billionaire and Virgin Galactic founder Richard Branson has claimed, "We
 http://www.dailymail.co.uk/sciencetech/article-4963304/Richard-Branson-says-SIX-MONTHS-going-space.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Iceland becomes smallest nation ever to enter FIFA World Cup
-#sports  
+#sports, #world, #iceland  
 Iceland has become the smallest country ever to qualify for the final stage of the FIFA World Cup, after topping its qualifying group. The island nation has a population of over 3,34,000 with over 20,000 registered football players. Last year, Iceland played its first major tournament, the UEFA European Championship, where the team defeated England and reached the quarter-final stage.  
 https://www.theguardian.com/football/2017/oct/09/iceland-qualify-world-cup-smallest-nation?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -419,9 +419,9 @@ https://www.outlookindia.com/newsscroll/mp-govt-to-provide-rs-2-lakhs-to-widows-
 Germany will limit the intake of refugees to 2 lakh annually, as part of a deal between German Chancellor Angela Merkel's party and its coalition ally that has long demanded a cap on the intake. The move is reportedly an attempt to regain the support of voters lost to the anti-immigrant Alternative für Deutschland (AfD) party.  
 https://www.rt.com/news/406104-merkel-limit-number-refugees/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-#### Black money crackdown: Bank accounts of 2.1 lakh shell companies frozen
+#### Black money crackdown: Bank accounts of 2.1 lakh shell companies frozen by Indian government
 #india, #business  
-The government today struck off over 2.1 lakh companies from the records of the registrar of companies in a major crackdown against those who could be part of a large nationwide black money matrix.  
+The government today struck off over 210,000 (2.1 lakh) companies from the records of the registrar of companies in a major crackdown against those who could be part of a large nationwide black money matrix.  
 http://indiatoday.intoday.in/story/black-money-bank-accounts-shell-companies-under-radar/1/1041661.html
 
 #### Up to 3-yr jail for looking at minor with sexual intent: HC
@@ -430,7 +430,7 @@ The Bombay High Court has held that 'constantly watching a child with sexual int
 http://www.hindustantimes.com/india-news/looking-lecherously-at-a-child-is-punishable-under-pocso-says-bombay-hc/story-BRfGsgAQiFXKmjAoabwnQO.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Russia, China banned from weightlifting for one year
-#world, #russia, #china  
+#sports, #russia, #china  
 Russia and China were among nine nations suspended from weightlifting competitions for up to 12 months after the International Weightlifting Federation retested samples from Beijing 2008 and London 2012 Olympics. Countries with at least three doping offences from those Olympics were suspended. Out of the 49 failed samples, 30 had medaled in various weight categories and disciplines.  
 https://www.rt.com/sport/405167-russia-china-weightlifting-ban/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -480,7 +480,7 @@ The government has named Rajnish Kumar as the new Chairman of State Bank of Indi
 https://economictimes.indiatimes.com/industry/banking/finance/banking/rajnish-kumar-to-replace-arundhati-bhattacharya-as-sbi-chief-next-week/articleshow/60939065.cms
 
 #### RBI keeps repo rate unchanged at 6%
-#india  
+#india, #economy  
 The RBI has kept the repo rate, the rate at which banks borrow from RBI, unchanged at 6% during its fourth bi-monthly monetary policy review on Wednesday. The status quo comes after retail inflation hit a 5-month high of 3.36% in August. In the last review policy in August, RBI reduced the repo rate by 25 basis points to 6%.  
 http://www.timesnownews.com/business-economy/article/rbi-keeps-repo-rate-unchanged-at-6-cuts-growth-forecast/100813
 
@@ -510,7 +510,7 @@ Allahabad High Court on Wednesday upheld Yogi Adityanath government's order that
 http://www.india.com/news/india/allahabad-high-court-upholds-yogi-adityanath-led-bjp-govts-order-says-singing-of-national-anthem-must-in-madrassas-2514350/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### RBI to allow fund transfer among mobile wallets
-#india, #startups  
+#india, #business  
 The Reserve Bank of India has said that interoperability amongst KYC compliant Prepaid Payment Instruments (PPIs) will be implemented within six months. The revised norms in this regard will be issued by the bank on October 11. With this, users will be able to transfer funds between mobile wallet of one company or a bank to another as per requirements.  
 https://www.bloombergquint.com/business/2017/10/04/rbi-to-allow-funds-transfer-among-mobile-wallets?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -682,7 +682,7 @@ Finnish technology company Nokia on Tuesday announced it is halting the developm
 https://techcrunch.com/2017/10/10/nokia-pulls-out-of-ozo-vr-hardware-lays-off-310-steps-up-in-health-and-patents/?ncid=rss&utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Social media firms can’t police fake news: Ex-Microsoft CEO
-#world  
+#business  
 Technology giant Microsoft's former CEO Steve Ballmer in a recent interview said that the social media companies can't do more at present to police fake news. "They're not in the news business, they pass along other people's news," he said. He also added that voters need places to find objective facts rather than information which validates their views.  
 https://www.bloomberg.com/news/articles/2017-10-09/twitter-investor-ballmer-says-social-media-companies-can-t-police-fake-news?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -722,6 +722,6 @@ The Aam Aadmi Party on Tuesday said it would begin a 'Metro Fare Satyagraha' fro
 http://www.newindianexpress.com/cities/delhi/2017/oct/10/aap-to-start-metro-fare-satyagraha-from-wednesday-1669571.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Estonia mulls giving legal status to Artificial Intelligence
-#world, #estonia  
+#technology, #world, #estonia  
 Estonia is considering a proposal to give legal status to Artificial Intelligence (AI) to simplify legal disputes involving robots. The proposal aims to place robots between "separate legal personality" and "personal property", calling them "robot-agent", officials said. However, experts suggested that granting robots personal rights "goes against Europe's humanist history of law."  
 http://www.ibtimes.co.uk/estonia-working-legislation-give-robots-ai-legal-status-create-robot-agents-1642516?utm_campaign=soficalflowtwitter&utm_source=socialflowtwitter&utm_medium=articles&utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
