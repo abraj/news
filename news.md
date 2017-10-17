@@ -1,7 +1,7 @@
 #### Dubai Claims Title of Blockchain's 'Global Capital' at Keynote Event
 At Keynote 2017, a blockchain technology event held at Dubai, Wesam Lootah, CEO of the state-backed smart cities effort Dubai Smart Government has said, "We believe that Dubai is the global capital of blockchain. We know how to execute and we're creating the ecosystem."  
-https://www.coindesk.com/dubai-government-claims-title-blockchains-global-capital/
-http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf
+https://www.coindesk.com/dubai-government-claims-title-blockchains-global-capital/  
+http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf  
 CACHE: https://github.com/abraj/news/blob/master/files/WorldGovernmentSummit-Dubai2017.pdf
 
 #### First Blockchain KYC Prototype Hits Singapore Banking Sphere
