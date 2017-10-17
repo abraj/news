@@ -21,8 +21,8 @@ CACHE: GitHub
 #### Decentralizing Central Banks: How R3 Envisions the Future of Fiat
 #blockchain  
 The future of central banks could be either on an open, permissionless blockchain or a closed, permissioned distributed ledger, according to a paper released today by bank consortium R3. That is, assuming anything changes at all.  
-https://www.coindesk.com/decentralizating-central-banks-how-r3-envisions-the-future-of-fiat/
-https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/593aa218e3df28fc70a4c7f3/1497014809042/Cad-coin+versus+Fedcoin-rg.pdf
+https://www.coindesk.com/decentralizating-central-banks-how-r3-envisions-the-future-of-fiat/  
+https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/593aa218e3df28fc70a4c7f3/1497014809042/Cad-coin+versus+Fedcoin-rg.pdf  
 CACHE: GitHub
 
 #### Time for a Blockchain Digital Currency, Says Indian Central Bank’s Research Arm
@@ -30,11 +30,11 @@ CACHE: GitHub
 In a significant endorsement of blockchain technology, bitcoin’s underlying innovation, the research arm of the Reserve Bank of India (RBI) – India’s central bank – has tested blockchain solutions for core banking processes in the country. More notably, researchers have determined that blockchain technology has “matured enough” to be the core technology to support the digitization of India’s fiat currency, the rupee.  
 https://www.cryptocoinsnews.com/blockchain-digital-currency-india/  
 http://www.idrbt.ac.in/assets/publications/Best%20Practices/BCT.pdf  
-https://idrbt.ac.in/assets/publications/Best%20Practices/BCT.pdf
+https://idrbt.ac.in/assets/publications/Best%20Practices/BCT.pdf  
 CACHE: Github
 
 #### Bahrain May Adopt Bitcoin and Issue Bonds in Digital Currency
-#blockchain, #bitcoin
+#blockchain, #bitcoin  
 The Middle East island country of Bahrain is becoming interested in bitcoin and cryptocurrency. Khalid Al Rumaihi, the chief executive of the Economic Development Board of Bahrain, mentioned the country has been eyeing the blockchain sector for some time. He hopes Bahrain can “issue bonds on digital currency.”  
 https://news.bitcoin.com/bahrain-may-adopt-bitcoin-in-the-near-future/
 
@@ -139,7 +139,7 @@ The U.S. Commodities Futures Trading Commission (CFTC) is reportedly still worki
 https://www.coindesk.com/cftc-still-doesnt-know-constitutes-cryptocurrency-delivery/
 
 #### Elon Musk wants to take us anywhere on Earth in less than 1 hour
-#technology
+#technology  
 Not content to overturn almost every notion we have about transportation, Elon Musk today unveiled an even more insanely transformative vision with the goal of allowing humans to reach any place on Earth in under 60 minutes.  
 https://venturebeat.com/2017/09/29/elon-musk-wants-to-take-us-anywhere-on-earth-in-less-than-1-hour/
 
@@ -152,7 +152,7 @@ https://venturebeat.com/2017/10/03/googles-firebase-releases-cloud-firestore-a-n
 #india, #startups  
 NPCI opened its application program interface (APIs) to partner banks to build solutions on the offered UPI infrastructure which, with its mobile-first payments, claimed to be interoperable and instant in nature.  
 https://yourstory.com/2016/03/upi-impact-payment-gateways/
-https://digidhan.mygov.in/pages/pdf/sbi/NPCI%20Unified%20Payment%20Interface.pdf
+https://digidhan.mygov.in/pages/pdf/sbi/NPCI%20Unified%20Payment%20Interface.pdf  
 CACHE: GitHub
 
 #### RBI Introduces Stricter KYC Norms For Mobile Wallets, Issues Final Guidelines For PPIs
@@ -233,7 +233,7 @@ A Nigerian court has sentenced 45 suspected Boko Haram members to up to 31 years
 https://www.theguardian.com/world/2017/oct/14/dozens-of-boko-haram-members-convicted-in-mass-secret-trial-in-nigeria?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### UP's Mughalsarai station renamed Deen Dayal Upadhyay station
-#india
+#india  
 Uttar Pradesh's Mughalsarai railway station has been renamed as Deen Dayal Upadhyay (DDU) railway station in a bid to revive the legacy of Pandit Upadhyay, who was found dead near the station in 1968. The Centre's approval of the Uttar Pradesh government's proposal to rename the station had attracted criticism from the opposition in the Rajya Sabha earlier this year.  
 http://indianexpress.com/article/india/mughalsarai-railway-station-renamed-to-deen-dayal-upadhyay-ddu-station-yogi-adityanath-4889831/
 
@@ -243,7 +243,7 @@ South Korea's third richest businessman and jailed Vice Chairman of Samsung Grou
 http://in.reuters.com/article/samsung-elec-results-lee/behind-bars-samsung-scion-lee-sees-his-wealth-top-2-billion-idINKBN1CI0U9?il=0&utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Apple Co-founder launches online tech education platform
-#startups, #education
+#startups, #education  
 Technology giant Apple's Co-founder Steve Wozniak has launched an online tech education platform 'Woz U' to provide employable digital skills for the tech industry. Woz U also offers access to tech companies interested in using tools and resources provided to recruit and train employees. 'Woz U' mobile app offering introductory courses is available on the App Store for iOS devices.  
 https://www.theverge.com/2017/10/13/16474170/apple-steve-wozniak-woz-u-launch-tech-education-online-university?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -253,17 +253,17 @@ Vanuatu, a South Pacific archipelago, has become the first nation to accept Bitc
 https://www.bloomberg.com/news/articles/2017-10-12/bitcoin-can-buy-you-citizenship-in-one-of-the-happiest-countries?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### South Africa SC reinstates corruption charges against Prez
-#world
+#world  
 South Africa's Supreme Court of Appeal (SCA) on Friday upheld a High Court ruling to reinstate 783 corruption charges filed against President Jacob Zuma before he became President. The charges against Zuma relate to a ₹14,000-crore government arms deal struck during the 1990s. State prosecutors had set aside the charges in 2009.  
 https://in.reuters.com/article/safrica-politics/south-african-supreme-court-upholds-reinstating-783-corruption-charges-against-zuma-idINKBN1CI0TJ?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Thought Sonia would make me PM, Manmohan Prez in 2012: Pranab
-#india
+#india  
 Former President Pranab Mukherjee revealed that after a meeting with Congress President Sonia Gandhi before 2012 presidential elections, he was left with a "vague impression" that she was considering Manmohan Singh as UPA's presidential nominee. He thought that the Congress Chief might choose him as the Prime Minister if she selects Singh for the Presidential office, Mukherjee added.  
 http://indianexpress.com/article/india/thought-sonia-gandhi-would-make-manmohan-singh-president-i-could-be-pm-pranab-mukherjee-4889447/
 
 #### Catalan leader suspends declaration of independence
-#world
+#world  
 Catalan President Carles Puigdemont on Tuesday suspended the region's declaration of independence in order to pursue dialogue with Spain to arrive at an "agreed solution". However, Puigdemont said the referendum had given Catalonia a clear mandate to be an independent state. The move came days after the poll in which 90% participants voted in favour of Catalonia's independence from Spain.  
 http://www.reuters.com/article/us-spain-politics-catalonia/catalan-leader-proclaims-independence-delays-effects-pending-talks-idUSKBN1CF13W?feedType=RSS&feedName=topNews&utm_source=twitter&utm_medium=Social&utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -273,12 +273,12 @@ Disruptions from demonetisation and events surrounding the implementation of GST
 http://www.hindustantimes.com/business-news/cash-disruption-gst-uncertainties-affected-india-s-economic-momentum-world-bank/story-gIzzGUPIcrdwN10E1zCm5N.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Sexual intercourse with wife below 18 years is rape: SC
-#india
+#india  
 The Supreme Court on Wednesday ruled that having sexual intercourse with wife who is below 18 years of age will be considered as rape. This comes after the apex court earlier slammed the Centre for creating an exception in the Indian Penal Code's Rape Law which said that having sex with wife aged 15-18 years is not rape.  
 https://twitter.com/ANI/status/917982122585001984?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Anupam Kher replaces Gajendra Chauhan as FTII Chairman
-#india
+#india  
 Anupam Kher has been appointed the new Chairman of the Film and Television Institute of India (FTII), succeeding television actor Gajendra Chauhan. The appointment of Gajendra in 2015 had led to protests by students, resulting in a 139-day long strike. Gajendra served as the FTII Chairman for one year and seven months out of the total tenure of three years.  
 http://www.hindustantimes.com/bollywood/anupam-kher-is-the-new-ftii-chairman-replaces-gajendra-chauhan/story-N2bUzjwk9oCk9PVthTShSK.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -288,17 +288,17 @@ FIFA has suspended Pakistan Football Federation with immediate effect, following
 http://www.fifa.com/governance/news/y=2017/m=10/news=fifa-suspends-the-pakistan-football-federation-2913299.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Delhi's first "pink toilet" for women launched
-#india
+#india  
 The South Delhi Municipal Corporation inaugurated Delhi's first "pink toilet" in Vikaspuri on Wednesday on the occasion of the International Day of the Girl Child. The toilet has vending machines for sanitary napkins and feeding area for breastfeeding mothers. The civic authorities said their aim is to help women access safe and hygienic washrooms in busy markets and public places.  
 http://www.hindustantimes.com/delhi-news/south-delhi-gets-first-pink-toilet-with-sanitary-napkin-vending-machines-feeding-area-for-moms/story-SaKUMXK6q8oUOk1Zogl8nI.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Allahabad HC acquits parents in Aarushi Talwar murder case
-#india
+#india  
 The Allahabad High Court on Thursday acquitted Nupur and Rajesh Talwar in the murder case of their daughter Aarushi and domestic help Hemraj. A special CBI court in Ghaziabad awarded life sentence to the couple in 2013. The Talwars had moved the HC challenging the CBI court's verdict and had been serving their sentence in Ghaziabad’s Dasna jail since 2013.  
 http://indianexpress.com/article/india/2008-aarushi-murder-case-allahabad-high-court-acquits-talwars-4886927/
 
 #### Nehra confirms retirement, will play last match on Nov 1
-#sports, #india
+#sports, #india  
 Indian pacer Ashish Nehra has confirmed his retirement, with the first T20I against New Zealand in New Delhi on November 1 slated to be his last match. "I informed Virat and Ravi Shastri that I think Bhuvi and Bumrah are doing well...this is the right time for me to go," said Nehra. The 38-year-old has represented India for 18 years.  
 http://www.financialexpress.com/sports/ashish-nehra-retires-from-international-cricket-will-play-last-match-against-new-zealand-on-november-1/890399/
 
@@ -318,7 +318,7 @@ India's largest telecom operator Bharti Airtel has agreed to a merger with Tata 
 https://www.bloombergquint.com/business/2017/10/12/bharti-airtel-agrees-to-take-over-tata-groups-mobile-services-business?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### India ranked 100 out of 119 countries on Global Hunger Index
-#india
+#india  
 India has a “serious” hunger problem and ranks 100th out of 119 countries, according to the Global Hunger Index. The report added that more than one-fifth of Indian children under five weigh too little for their height and over a third are too short for their age. India fell three places from last year and ranked below Iraq and Bangladesh.  
 http://www.hindustantimes.com/india-news/india-worse-than-nepal-bangladesh-in-tackling-hunger-down-3-ranks-at-global-level-report/story-a2SyCOUEiNwRgMMI4cqZYN.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -328,22 +328,22 @@ Japanese capital city Tokyo has topped The Economist Intelligence Unit's Safe Ci
 http://safecities.economist.com/safe-cities-index-2017?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### ICC approves Test match world championship, ODI league
-#sports
+#sports  
 The ICC on Friday gave an in-principle approval to a nine-team Test league and 13-team ODI league. The Test league, which would start after the 2019 World Cup, will span over two years with each country playing six series, culminating in a World Test League Championship Final. The ODI league will be a direct qualification pathway to the World Cup.  
 https://www.icc-cricket.com/media-releases/490161?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Tesla recalls 11,000 Model X cars over safety issue
-#business
+#business  
 American electric carmaker Tesla has recalled its 11,000 Model X cars with second-row fold-flat seats built between October 28, 2016 and August 16, 2017 over safety issues. Tesla found the seat on the left side of the second row seats could move forward during a crash. Tesla further said, it hasn't received reports of any accidents relating to the issue.  
 http://mashable.com/2017/10/12/tesla-model-x-second-row-seat-recall/?utm_cid=hp-r-11&utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle#HwgbbTj90Oqb
 
 #### Over 90% of Syrian territory liberated from ISIS: Russia
-#world
+#world  
 Over 90% of Syria has been freed from Islamic State militants, the Russian Defence Ministry has said. The Russian Air Force performed about 517 offensives and destroyed over 1,260 facilities controlled by international terrorist groups in the past week, the Ministry added. Russia launched its military operation in Syria in September 2015 to provide air support for Syrian government forces.  
 https://www.rt.com/newsline/406555-syria-territory-russian-military/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Hyperloop One rebrands itself as 'Virgin Hyperloop One'
-#startups
+#startups  
 Hyperloop One has agreed to rebrand itself as 'Virgin Hyperloop One' after Richard Branson's Virgin Group invested in the high-speed transport technology startup. The startup announced Branson is also joining its Board of Directors. Hyperloop One's pods use electromagnetic propulsion and magnetic levitation to travel in near-vacuum tubes and in August achieved a record speed of 309 kmph.  
 https://www.theverge.com/2017/10/12/16464142/hyperloop-one-virgin-richard-branson-investment?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -408,7 +408,7 @@ Madhya Pradesh Chief Minister Shivraj Singh Chouhan on Sunday announced that his
 https://www.outlookindia.com/newsscroll/mp-govt-to-provide-rs-2-lakhs-to-widows-for-remarriage/1163468?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Germany to limit annual intake of refugees to 2 lakh a year
-#world, #germany
+#world, #germany  
 Germany will limit the intake of refugees to 2 lakh annually, as part of a deal between German Chancellor Angela Merkel's party and its coalition ally that has long demanded a cap on the intake. The move is reportedly an attempt to regain the support of voters lost to the anti-immigrant Alternative für Deutschland (AfD) party.  
 https://www.rt.com/news/406104-merkel-limit-number-refugees/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -518,7 +518,7 @@ Alleging that American forces in Syria have been supporting and flirting with IS
 https://www.rt.com/news/405699-us-isis-syria-russia/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Flying taxi to make first flight in 2018, says Airbus
-#startups
+#startups  
 Airbus has said it remains on track to carry out the maiden flight of its flying taxi, 'CityAirbus', by the end of next year. Airbus confirmed that its helicopter division successfully completed a full-scale ground test of a propulsion system for the 'CityAirbus'. It can take up to four passengers and will be able to vertically take off and land.  
 https://techcrunch.com/2017/10/05/airbus-on-track-to-fly-its-electric-aerial-taxi-in-2018/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -578,7 +578,7 @@ The US Department of Justice (DOJ) has reversed a policy that protected transgen
 https://www.theguardian.com/us-news/2017/oct/05/justice-department-transgender-sex-discrimination-ban?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Moon once had an atmosphere: NASA study
-#research
+#research  
 A NASA study has found the Moon had an atmosphere around 3-4 billion years ago, when volcanic eruptions spewed gases faster than they could escape to space. Apollo mission samples' analyses indicated ancient moon's magma carried carbon monoxide, water, and sulphur. During that time, the Moon was three times closer to Earth, likely appearing three times larger in the sky.  
 https://phys.org/news/2017-10-nasa-moon-atmosphere.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
@@ -670,7 +670,7 @@ IIT Kanpur on Monday suspended 16 students for three years and six students for 
 http://www.india.com/education/iit-kanpur-suspends-22-second-year-b-tech-students-for-ragging-juniors-2523885/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Nokia halts $45,000 VR camera production
-#business
+#business  
 Finnish technology company Nokia on Tuesday announced it is halting the development of its virtual reality (VR) camera 'Ozo' which costs $45,000. The company said it found that the VR market was developing "slower than expected" and plans to reduce investments and focus on technology licensing opportunities. Nokia unveiled the camera in 2015 and originally priced it at $60,000.  
 https://techcrunch.com/2017/10/10/nokia-pulls-out-of-ozo-vr-hardware-lays-off-310-steps-up-in-health-and-patents/?ncid=rss&utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
