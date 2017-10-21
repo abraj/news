@@ -5,10 +5,12 @@ the headlines <i>that matter</i>.
 </h3>
 <br>
 
-#blockchain, #bitcoin, #ethereum, #cryptocurrency
-* https://news.bitcoin.com
-* https://cointelegraph.com/
-* http://www.coindesk.com/
+#technology, #sports, #business, #world, #india, #usa, #russia, ..
+* https://www.inshorts.com/en/read
+* http://indianexpress.com/section/india/
+* http://indianexpress.com/section/world/
+* http://indianexpress.com/section/opinion/
+* https://www.youtube.com/user/rajyasabhatv/
 
 #startups
 * http://mashable.com
@@ -22,12 +24,10 @@ the headlines <i>that matter</i>.
 * http://techcircle.vccircle.com
 * https://yourstory.com
 
-#technology, #sports, #business, #world, #india, #usa, #russia, ..
-* https://www.youtube.com/user/rajyasabhatv/
-* https://www.inshorts.com/en/read
-* http://indianexpress.com/section/india/
-* http://indianexpress.com/section/world/
-* http://indianexpress.com/section/opinion/
+#blockchain, #bitcoin, #ethereum, #cryptocurrency
+* https://news.bitcoin.com
+* https://cointelegraph.com/
+* http://www.coindesk.com/
 
 #others
 * https://currentaffairs.gktoday.in
