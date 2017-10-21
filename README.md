@@ -30,4 +30,6 @@ the headlines <i>that matter</i>.
 * http://www.coindesk.com/
 
 #others
+* https://news.ycombinator.com
+* https://www.reddit.com
 * https://currentaffairs.gktoday.in
