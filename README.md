@@ -7,16 +7,15 @@ the headlines <i>that matter</i>.
 
 #technology, #sports, #business, #world, #india, #usa, #russia, ..
 * https://www.inshorts.com/en/read
+* https://www.youtube.com/user/rajyasabhatv/
 * http://indianexpress.com/section/india/
 * http://indianexpress.com/section/world/
 * http://indianexpress.com/section/opinion/
-* https://www.youtube.com/user/rajyasabhatv/
 
 #startups
-* http://mashable.com
 * https://venturebeat.com
+* http://mashable.com
 * https://techcrunch.com/startups/
-* https://news.ycombinator.com
 * https://www.producthunt.com
 
 #startups + #india
@@ -29,7 +28,9 @@ the headlines <i>that matter</i>.
 * https://cointelegraph.com/
 * http://www.coindesk.com/
 
-#others
+#socialnews
 * https://news.ycombinator.com
 * https://www.reddit.com
+
+#others
 * https://currentaffairs.gktoday.in

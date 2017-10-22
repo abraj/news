@@ -1,0 +1,27 @@
+
+#blockchain: #bitcoin, #ethereum, #cryptocurrency
+#startups: #india
+#technology, #sports, #business, #economy
+#education, #research
+
+---
+
+#world, #india, #usa, #russia, #dubai, #singapore,
+#pakistan, #myanmar, #australia, #germany, #china, #spain,
+#austria, #serbia, #mexico, #bangladesh, #iran, #estonia,
+#sweden, #bahrain, #macau, #southkorea, #ukraine, #japan,
+#nigeria, #southafrica, #vanuatu, #israel, #iceland, #brazil
+#newzealand, #iraq, #france, #uk, #northkorea, #somalia
+
+#blockchain, #bitcoin  
+#blockchain, #ethereum  
+#blockchain, #cryptocurrency  
+
+---
+
+{No Country}        -->  global
+Country1, Country2  -->  global  --(#local)--> local
+Country1            -->  local   --(#world)--> global
+
+---
+
