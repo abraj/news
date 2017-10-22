@@ -10,3 +10,5 @@ http://mashable.com/2017/10/20/bitcoin-6000/?utm_cid=hp-h-16#8f.pvmDEomqB
 #### Facebook Messenger now sends money via PayPal
 PayPal peer-to-peer (P2P) payments can now be sent in Facebook Messenger. The service will begin to roll out to customers in the United States starting today, PayPal COO Bill Ready said in this morning’s blog post.  
 https://venturebeat.com/2017/10/20/facebook-messenger-now-sends-money-via-paypal/
+
+####
