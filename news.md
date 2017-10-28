@@ -48,7 +48,7 @@ https://news.bitcoin.com/south-korea-tax-bitcoin-use/
 
 #### Putin Orders the Issue of Russia’s National Cryptocurrency – the Cryptoruble
 #blockchain, #cryptocurrency  
-Russia’s president Vladimir Putin has reportedly ordered the issue of the national cryptocurrency, the “cryptoruble.” Most likely, it will be a closed model with a certain volume of regulated emissions. The creation of the cryptoruble would not equal the legalization of bitcoin and other cryptocurrencies.
+Russia’s president Vladimir Putin has reportedly ordered the issue of the national cryptocurrency, the “cryptoruble.” Most likely, it will be a closed model with a certain volume of regulated emissions. The creation of the cryptoruble would not equal the legalization of bitcoin and other cryptocurrencies.  
 https://news.bitcoin.com/putin-issue-russias-national-cryptocurrency-cryptoruble/
 
 #### Gigablock Testnet Researchers Mine the World’s First 1GB Block
@@ -295,10 +295,6 @@ http://www.thehindu.com/business/Economy/government-to-infuse-rs-211-lakh-crore-
 #startups  
 Brainly, a Poland-based peer-to-peer (P2P) social learning platform, has raised another $14 million in funding, closing its series B round at $29 million. Founded out of Kraków in 2009, Brainly sells its platform as a place for students to “combine their strengths and talents to tackle problems together.” The web- and app-based portal targets high school and middle school students to encourage learning outside the classroom. Users can ask questions across a range of topics, including science, history, and math, and receive moderated responses from fellow students.  
 https://venturebeat.com/2017/10/25/polish-p2p-learning-platform-brainly-raises-14m-after-hitting-100m-users/
-
-#### Google launches Android Studio 3.0 and Android 8.1 Oreo Developer Preview
-#technology  
-https://venturebeat.com/2017/10/25/google-launches-android-studio-3-0-and-android-8-1-oreo-developer-preview/
 
 #### 51 Hindu migrant families from Pak get Indian citizenship
 #india  
