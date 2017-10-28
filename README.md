@@ -14,13 +14,12 @@ the headlines <i>that matter</i>.
 
 #startups
 * https://venturebeat.com
-* http://mashable.com
 * https://techcrunch.com/startups/
+* http://mashable.com
 * https://www.producthunt.com
 
 #startups + #india
 * https://inc42.com
-* http://techcircle.vccircle.com
 * https://yourstory.com
 
 #blockchain, #bitcoin, #ethereum, #cryptocurrency

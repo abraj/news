@@ -1,9 +1,83 @@
 
+Applications Open for Facebook’s Code for the Next Billion 2017
+
+https://www.startupindiahub.org.in/content/sih/en/cod-for-next-billion.html
+http://10000startups.com/CodeForTheNextBillion/
+
+9th Oct - 19th Nov      Call for applications
+Dec 2017                Announcement of shortlisted applicants
+Jan - Feb 2018          Mentorship Programs
+Apr 2018                Investment Pitching Sessions
+May 2018                Felicitation Ceremony
+
+------------
+vim
+
+------------
+
+Wikipedia vs Concise.org:
+    * Exhaustive vs Concise
+    * Informative vs Introductory
+    * Bureaucracy vs Democracy
+    * Review after publish vs Review before publish
+    * Non-reviewed/peer-reviewed vs peer-reviewed/(subject-matter expert)
+    * Voluntary vs Remuneratory
+    * Research vs Basic Education
+    * Encyclopedia vs Open-source-course-books-repository/(schools,colleges)
+
+concise.org:
+# /news/..
+    * Daily News
+    * On-going ``temporary`` issues
+# /notes/.. [unique]
+    * Suggestion: Redlinks (validate need, classify typeof)
+    * Articles/Nouns {Linkable} [Typeof: Person, Place, Thing] : Steve Jobs, India, Vector, Speed, Velocity, ...
+    * Articles/Info  {Linkable} [Typeof: Event, Issues, Info, Questions]: Israel-Palestine Issue, ...
+    * Articles/Tutorials {Linkable} []: Newton's first law
+# /notes/.. [collection/merge/explain/comprehensive-flow/]
+    * Pack articles together with a few explanations in-between so that the flow makes sense
+    * Topics {Linkable} []: Newton's laws of motion
+# /modules/..
+    * Chapters : Depends on class and capability ...
+    * Module
+# /modules/examples/..
+    * solved examples, numericals
+* Course
+* Subject
+
+------------
+
+Angular, React:
+https://www.youtube.com/watch?v=9aVJOg2EB9I
+https://www.youtube.com/watch?v=vYldnghykaU&list=PLillGF-RfqbbKWfm3Y_RF57dNGsHnkYqO
+https://www.youtube.com/watch?v=A71aqufiNtQ&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=5
+https://www.youtube.com/watch?v=KhzGSHNhnbI&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=1&t=11s
+https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8
+
+Javascript:
+https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
+
+Kotlin:
+
+Google I/O:
+
+------------
+
 https://medium.com/@AadhiMNV/holy-grail-of-credit-scoring-the-blockchain-d72667319ba8
 https://steemit.com/blockchain/@krabgat/can-the-blockchain-be-a-solution-for-government-corruption
 https://blog.signatura.co/blockchainify-tender-processes-c0760a9481b0
 https://yourstory.com/search?q=blockchain
 https://medium.com
+
+https://stripe.com/blog/bitcoin-the-stripe-perspective (Contrast with other global networks...)
+https://medium.com/@octskyward/ecdh-in-the-payment-protocol-cb2f81962c1b
+
+## Chanakya.net
+* ...
+https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_a_bureaucracy
+https://www.forbes.com/sites/wenjiazhao/2012/07/23/the-wikipedia-bureaucracy/#7cd9fe984f48
+http://www.slate.com/articles/technology/future_tense/2014/06/wikipedia_s_bureaucracy_problem_and_how_to_fix_it.html
+https://www.technologyreview.com/s/520446/the-decline-of-wikipedia/
 
 ------------
 
@@ -64,3 +138,30 @@ https://venturebeat.com/2017/10/17/data-rights-are-the-new-ip-rights/
 
 3 chatbots to deploy in your business
 https://venturebeat.com/2016/10/01/3-chatbots-to-deploy-in-your-business/
+
+Meet the 12 startups selected for Yes Bank’s accelerator programme
+http://techcircle.vccircle.com/2017/03/17/meet-the-12-startups-selected-for-yes-banks-accelerator-programme/
+
+Here’s Bitcoin.com’s Updated Stance on Specific Bitcoin Chain Symbols and Monikers
+https://news.bitcoin.com/bitcoin-coms-clarification-on-bitcoin-fork-symbols-and-monikers/
+
+Why is Africa Slow on the Bitcoin Uptake?
+https://cointelegraph.com/news/why-is-africa-slow-on-the-bitcoin-uptake
+
+Why MIT Implemented Bitcoin Blockchain to Distribute Diplomas Instead of Permissioned Ledgers
+https://cointelegraph.com/news/why-mit-implemented-bitcoin-blockchain-to-distribute-diplomas-instead-of-permissioned-ledgers
+
+http://news.mit.edu/2017/mit-debuts-secure-digital-diploma-using-bitcoin-blockchain-technology-1017
+http://www.blockcerts.org
+
+Ben Goertzel on How Blockchain Can be Used to Decentralize Artificial Intelligence
+https://cointelegraph.com/news/ben-goertzel-on-how-blockchain-can-be-used-to-decentralize-artificial-intelligence
+
+AI-enabled personalization is easier than you think
+https://venturebeat.com/2017/10/23/ai-enabled-personalization-is-easier-than-you-think/
+
+Raising Money From The Big VCs — A Winning Formula
+https://inc42.com/resources/raising-money-from-the-big-vcs-a-winning-formula/
+
+Deep Dive into Object Detection with Open Images, using Tensorflow
+https://blog.algorithmia.com/deep-dive-into-object-detection-with-open-images-using-tensorflow/
