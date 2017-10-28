@@ -27,9 +27,10 @@ the headlines <i>that matter</i>.
 * https://cointelegraph.com/
 * http://www.coindesk.com/
 
-#socialnews
+#socialnews, #blogs
 * https://news.ycombinator.com
 * https://www.reddit.com
+* https://medium.com
 
 #others
 * https://currentaffairs.gktoday.in
