@@ -165,3 +165,6 @@ https://inc42.com/resources/raising-money-from-the-big-vcs-a-winning-formula/
 
 Deep Dive into Object Detection with Open Images, using Tensorflow
 https://blog.algorithmia.com/deep-dive-into-object-detection-with-open-images-using-tensorflow/
+
+10 Reasons Why Online News Sites Suck
+http://www.adweek.com/digital/10-reasons-why-online-news-sites-suck/
