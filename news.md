@@ -131,7 +131,8 @@ https://www.icc-cricket.com/match/6884?utm_source=inshorts&utm_medium=referral&u
 
 #### Resolved 18 of 27 GST Network glitches: Sushil Modi, head of Group of Ministers (GoM) on GST issues committee
 #india  
-Bihar Deputy Chief Minister Sushil Modi has said that 18 of the 27 glitches identified on GST Network (GSTN) have been resolved by Infosys. He heads the Group of Ministers (GoM) mandated to look into the GSTN technical issues. Infosys, which handles IT infrastructure for GSTN, has said it will expand its 100-member team to speed up fixing bugs.
+Bihar Deputy Chief Minister Sushil Modi has said that 18 of the 27 glitches identified on GST Network (GSTN) have been resolved by Infosys. He heads the Group of Ministers (GoM) mandated to look into the GSTN technical issues. Infosys, which handles IT infrastructure for GSTN, has said it will expand its 100-member team to speed up fixing bugs.  
+http://www.livemint.com/Politics/pVFvMHgqmELCTimhYVu78N/18-of-27-GSTN-functions-operationalised-till-date-Sushil-Mo.html
 
 #### Saudi Arabia to allow women into sports stadiums
 #world  
@@ -165,7 +166,7 @@ https://www.icc-cricket.com/media-releases/505286?utm_source=inshorts&utm_medium
 
 #### UP govt to implement NCERT syllabus in madrasas
 #india, #education  
-The Uttar Pradesh government has decided to provide books based on National Council of Educational Research and Training (NCERT) syllabus to madrasa students. Mathematics and science have been made mandatory at higher level in the madrasas, Deputy CM Dinesh Sharma said. UP had allocated ₹394 crore for imparting modern education in recognised madrasas and elementary schools in the state budget.
+The Uttar Pradesh government has decided to provide books based on National Council of Educational Research and Training (NCERT) syllabus to madrasa students. Mathematics and science have been made mandatory at higher level in the madrasas, Deputy CM Dinesh Sharma said. UP had allocated ₹394 crore for imparting modern education in recognised madrasas and elementary schools in the state budget.  
 http://www.india.com/news/uttar-pradesh-madarsas-to-implement-ncert-syllabus-maths-science-to-be-made-compulsory-subjects-2580777/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 #### Hamilton wins 4th F1 title after finishing 9th in Mexico
