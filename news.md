@@ -1,29 +1,63 @@
 
-####
+#### Taliban increasing control over Afghan territory: US monitor
+#world  
+The militant group Taliban has increased the amount of territory under its influence or control in Afghanistan in the past six months, according to a report by the US' Special Inspector General for Afghanistan Reconstruction. As of August 2017, 13% of the 407 districts in Afghanistan were under its control or influence, compared with 11% in February.  
+https://www.rt.com/newsline/408366-taliban-afghanistan-territory-watchdog/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### European planes to use fuel made from veg oil, animal fat
+#world  
+Planes across Europe will run on renewable fuel made from vegetable oil and animal fat in an effort aimed at tackling climate change, reports said. The biofuel, which will release up to 90% fewer carbon emissions, will be mixed with kerosene. Planes running on the new fuel will start flying from Switzerland in 2018.  
+https://www.rt.com/business/408231-planes-biofuel-vegetable-oil-fat/?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### Kenya Prez secures 98% vote in election re-run
+#world  
+Kenyan President Uhuru Kenyatta secured 98% of the vote in a repeated election, the electoral commission said. The fresh polls took place after Kenya's Supreme Court declared the August presidential election as invalid due to irregularities committed by the election board. However, the turnout remained 39% due to violent clashes and a boycott by the Opposition.  
+https://www.reuters.com/article/us-kenya-election-kenyatta/kenyan-president-kenyatta-wins-98-percent-of-vote-in-repeat-election-idUSKBN1CZ1SE?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### Kota gets government primary school for grandmothers
+#india, #education  
+The Kachnawada village in Rajasthan's Kota district has got a government upper primary school for grandmothers living there. 'Matri Gyan Kendra', which was officially launched on October 30, allows only women above the age of 40 to enrol. Notably, the government plans to open up four more such education centres in the district to increase the literacy rate among females.  
+http://www.hindustantimes.com/india-news/in-kota-school-opens-for-grandmas-to-fulfil-their-dream-of-getting-education/story-OooMxibpXVla3lBBQqnz5J.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### Shivaji memorial in Maharashtra to be world's tallest statue
+#india  
+The proposal to increase the height of the Chhatrapati Shivaji Maharaj statue, to be built off Mumbai coast, from 192 metres to 210 metres has been cleared, making it the world's tallest statue once built. The project, for which Chief Minister Devendra Fadnavis had earlier allocated ₹3,600 crore, is now estimated to cost around ₹4,000 crore.  
+http://www.hindustantimes.com/mumbai-news/shivaji-statue-in-mumbai-to-be-world-s-tallest-at-210m/story-sT8ythAhw5vGcFy9YgcbDI.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### Shinzo Abe re-elected Japan Prime Minister after snap poll
+#world  
+Japanese PM Shinzo Abe was re-elected to the post on Wednesday after his ruling coalition won by a two-thirds majority in the parliamentary election held on October 22. The majority in the lower house of the Parliament would allow Abe to propose changes to the constitution and puts Abe on track to become the longest-serving leader in Japan's modern history.  
+http://www.reuters.com/article/us-japan-politics/japans-abe-re-elected-prime-minister-after-big-election-win-idUSKBN1D13LP?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### Cannot tolerate North Korea as nuclear state: South Korea
+#world  
+South Korea will never tolerate or accept North Korea as a nuclear state, nor will develop atomic weapons of its own, South Korean President Moon Jae-in said on Wednesday. Adding that his government will continue working for peace on the Korean peninsula, Moon reiterated that there can be no military action on the Korean peninsula without South Korea's consent.  
+http://uk.reuters.com/article/uk-northkorea-missiles/south-koreas-moon-says-cannot-recognise-north-korea-as-nuclear-state-idUKKBN1D13AR?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### Set up special courts for MPs, MLAs facing cases: SC to govt
+#india  
+The Supreme Court has asked the Centre to set up special courts to expedite the pending cases against Parliamentarians and MLAs. The apex court gave the Centre six weeks to detail its plans for setting up such courts. It also asked the government to apprise how many of 1,581 cases involving MPs and MLAs were disposed of within one year.  
+http://www.timesnownews.com/india/video/election-commission-india-supreme-court-convicted-politicians-life-term-ban/116839?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### Emergency in France called off after 2 years
+#world  
+The state of emergency imposed in France after the 2015 Paris terror attacks came to an end on Wednesday as the new anti-terror law came into effect. The new law gives authorities greater power in a crackdown on terrorism. However, activists have expressed concerns over the law, saying it undermines citizens' rights and freedom.  
+https://www.reuters.com/article/us-eu-france-macron/as-france-emergency-rule-ends-macron-defends-new-anti-terrorism-law-idUSKBN1D02DR?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### Government may implement policy on drones by January 1
+#india  
+Minister of State for Civil Aviation Jayant Sinha on Wednesday said that the government may implement its policy on drones by January 1, 2018. All drones operating in the country will require a unique identification number, according to the draft norms. The rules also allow using drones for commercial purposes, which would allow companies to deliver goods at the doorstep.  
+https://twitter.com/ANI/status/925705847115735040?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
+#### Mukesh Ambani becomes Asia's richest person
+#india  
+Reliance Industries Chairman Mukesh Ambani has become Asia's richest person with a wealth of $42.1 billion, according to Forbes. This puts him ahead of Chinese real estate giant Evergrande Group's Chairman Hui Ka Yan who has a net worth of $40.6 billion. This comes after Reliance Industries became the first Indian company to cross ₹6 lakh crore in market capitalisation.  
+https://www.forbes.com/profile/mukesh-ambani/?list=rtb&utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
-####
-
-####
+#### Ex-B'desh PM Zia charged with sedition for meeting ISI agent
+#world  
+A sedition complaint has been filed against former Bangladeshi PM Khaleda Zia for allegedly meeting an official from Pakistan's intelligence agency ISI, according to reports. She reportedly met the official in the UK during her visit to the country this year. The meeting was meant to create "instability in Bangladesh and instigate war between Bangladesh and India", the complainant said.  
+http://www.newindianexpress.com/world/2017/nov/01/sedition-complaint-against-bangladesh-opposition-leader-khaleda-zia-for-secret-meeting-with-isi-1689316.html?utm_source=inshorts&utm_medium=referral&utm_campaign=fullarticle
 
 ####
 
